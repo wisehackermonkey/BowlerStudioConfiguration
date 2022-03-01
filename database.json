@@ -14,10 +14,6 @@
     "https://github.com/wisehackermonkey/helloWorld_wisehackermonkey.git:helloWorld.groovy": [
       "https://github.com/wisehackermonkey/helloWorld_wisehackermonkey.git",
       "helloWorld.groovy"
-    ],
-    "https://gist.github.com/3b5a6855ae9989391b4d525ae1e3ba45.git:arduinoBlinkSample.groovy": [
-      "https://gist.github.com/3b5a6855ae9989391b4d525ae1e3ba45.git",
-      "arduinoBlinkSample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
